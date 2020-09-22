@@ -1,0 +1,17 @@
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/obj/Debug/netcoreapp2.2/Allergens.Tests.csprojAssemblyReference.cache
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/obj/Debug/netcoreapp2.2/Allergens.Tests.csproj.CoreCompileInputs.cache
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/obj/Debug/netcoreapp2.2/Allergens.Tests.AssemblyInfoInputs.cache
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/obj/Debug/netcoreapp2.2/Allergens.Tests.AssemblyInfo.cs
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/bin/Debug/netcoreapp2.2/Allergens.Tests.deps.json
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/bin/Debug/netcoreapp2.2/Allergens.Tests.runtimeconfig.json
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/bin/Debug/netcoreapp2.2/Allergens.Tests.runtimeconfig.dev.json
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/bin/Debug/netcoreapp2.2/Allergens.Tests.dll
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/bin/Debug/netcoreapp2.2/Allergens.Tests.pdb
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/bin/Debug/netcoreapp2.2/Allergens.dll
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/bin/Debug/netcoreapp2.2/Allergens.pdb
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/obj/Debug/netcoreapp2.2/Allergens.Tests.csproj.CopyComplete
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/obj/Debug/netcoreapp2.2/Allergens.Tests.dll
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens.Tests/obj/Debug/netcoreapp2.2/Allergens.Tests.pdb

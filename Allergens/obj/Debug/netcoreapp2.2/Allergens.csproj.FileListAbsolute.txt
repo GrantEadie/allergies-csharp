@@ -1,0 +1,11 @@
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens/obj/Debug/netcoreapp2.2/Allergens.csprojAssemblyReference.cache
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens/obj/Debug/netcoreapp2.2/Allergens.csproj.CoreCompileInputs.cache
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens/obj/Debug/netcoreapp2.2/Allergens.AssemblyInfoInputs.cache
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens/obj/Debug/netcoreapp2.2/Allergens.AssemblyInfo.cs
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens/bin/Debug/netcoreapp2.2/Allergens.deps.json
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens/bin/Debug/netcoreapp2.2/Allergens.dll
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens/bin/Debug/netcoreapp2.2/Allergens.pdb
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens/obj/Debug/netcoreapp2.2/Allergens.dll
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens/obj/Debug/netcoreapp2.2/Allergens.pdb
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens/bin/Debug/netcoreapp2.2/Allergens.runtimeconfig.json
+/Users/granteadie/Desktop/EPICODUS/C#/Allergies.Solution/Allergens/bin/Debug/netcoreapp2.2/Allergens.runtimeconfig.dev.json
